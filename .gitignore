@@ -30,3 +30,40 @@
 *.exe
 *.out
 *.app
+
+
+# Prerequisites
+C/*.d
+
+# Compiled Object files
+C/*.slo
+C/*.lo
+C/*.o
+C/*.obj
+
+# Precompiled Headers
+C/*.gch
+C/*.pch
+
+# Compiled Dynamic libraries
+C/*.so
+C/*.dylib
+C/*.dll
+
+# Fortran module files
+C/*.mod
+C/*.smod
+
+# Compiled Static libraries
+C/*.lai
+C/*.la
+C/*.a
+C/*.lib
+
+# Executables
+C/*.exe
+C/*.out
+C/*.app
+
+C/cmake-build-debug/*
+
